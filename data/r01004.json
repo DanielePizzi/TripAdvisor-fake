@@ -1,0 +1,164 @@
+{
+    "nome": "Olio e Limone",
+    "id": "01004",
+    "voto": "5",
+    "cucina": ["pizza","olio","limone"],
+    "indirizzo": "Via Alba, 32, 00182 Roma, Italu",
+    "tel": "0664850434",
+    "thumb": "img/r01004_th.jpg",
+    "foto": ["img/r01004_1.jpg","img/r01004_2.jpg","img/r01004_3.jpg"],
+    "rev": [{
+        "user": "Daniele",
+        "titolo": "consigliato",
+        "note": "Scoperto casualmente, un posto eccezionale. Ho mangiato benissimo, servizio impeccabile: rapido, cortese e allegro. Consigliatissimo il dolce di pan di Spagna bagnato col centerbe. Ci ritornerò sicuramente. Non ci sono molti coperti, conviene prenotare",
+        "voto": "5",
+        "data": "20/04/2016"
+    },{
+        "user": "saroshi_2110",
+        "titolo": "Simpel aber lecker",
+        "note": "Sehr einfache italienische Küche zu normalen Preisen.\nSehr gemütliches Restaurant,unglaublich nettes Personal.\n1nWir hatten eine Vorspeise ( einfach gemacht,aber sehr qualitativ hochwertige Produkte ) und ein Hauptgericht sowie Wein und Wasser und haben zu zweit 45 Euro bezahlt.\n\nIn diesem Restaurant bekommt man ehrliche & gute Italinische Küche.\n\nWenn man in der Nähe ist sollte man dieses Restaurant mal ausprobieren.",
+        "voto": "4",
+        "data": "16/04/2016"        
+    },{
+        "user": "mielardi",
+        "titolo": "Buona cucina romana",
+        "note": "Grande scelta di primi e di secondi piatti della tipica cucina romana; consiglio, agli amanti del genere, di prendere la trippa....squisita davvero.",
+        "voto": "4",
+        "data": "10/04/2016"        
+    },{
+        "user": "Polosud3",
+        "titolo": "Che scoperta",
+        "note": "Grazie all'ottima scelta di una 'compagna di tavola' ho scoperto questo ristorante con estrema soddisfazione. Locale raccolto e arredato con gusto - prenotazione d'obbligo. Personale preparato, gentile e veloce. Cucina tradizionale che spicca per qualità e quantità. Dolci consigliatissimi. Da provare e riprovare.",
+        "voto": "4",
+        "data": "10/04/2016"        
+    },{
+        "user": "1200rtblack",
+        "titolo": "splendida garanzia",
+        "note": "Tornato per la seconda volta in questo piccolo angolo di paradiso culinario: meglio, se possibile, della prima! Accomodati nell'unico neo del locale (posti stretti, prenotare!), accolti dalla disinvolta e frizzante cortesia di Serena, è un tripudio di antipasti, primi e secondi cucinati benissimo, con cura e fantasia. I dolci sono da evitare, non ne basta uno solo.....troppo buoni! L'ultima piacevolissima...",
+        "voto": "3.5",
+        "data": "10/04/2016"        
+    },{
+        "user": "valentina g",
+        "titolo": "Eccellente",
+        "note": "Un ristorantino con pochissimi tavoli, personale gentilissimo e una cucina eccellente, in qualità, in quantità. OTTIMO!",
+        "voto": "1",
+        "data": "10/04/2016"        
+    },{
+        "user": "ferrari 355it",
+        "titolo": "qualità e passione",
+        "note": "Siamo stati a Roma x un week end e come da mia prassi ho deciso di nn andare in trattorie o luoghi tipicamente turistici ma di cercare un'osteria con menu alternativi ma di tradizione romana. Quindi dopo aver consultato TA e visto i piatti proposti ho scelto qst osteria. ",
+        "voto": "2",
+        "data": "10/04/2016"        
+    },{
+        "user": "paolo s",
+        "titolo": "schif",
+        "note": "locale veramente pessimo, mai più",
+        "voto": "1",
+        "data": "10/04/2016"        
+    },{
+        "user": "alchemisia",
+        "titolo": "tutto bene",
+        "note": "Ambiente carino e informale le ragazze sono carinissime e brave, abbiamo mangiato molto bene e speso il giusto. Porzioni abbondanti quindi fate bene i conti col vostro stomaco!",
+        "voto": "3.5",
+        "data": "10/04/2016"        
+    },{
+        "user": "dadda",
+        "titolo": "bella cena",
+        "note": "bella cena",
+        "voto": "3.5",
+        "data": "10/04/2016"        
+    },{
+        "user": "maria full",
+        "titolo": "tutto ottimo",
+        "note": "Dall'antipasto, al primo fino al dolce, tutto è stato buono, curato e ben servito....Avevamo anche voglia delle costine stracotte, ma non ce l'abbiamo fatta! Alla prossima!",
+        "voto": "4",
+        "data": "10/04/2016"        
+    },{
+        "user": "espero2",
+        "titolo": "sorpresa",
+        "note": "ho passato una bellissima serata dove ho mangiato antipasto e primi buonissimi , siamo capitati li dopo che un altro ristorante a centocelle mi ha cancellato la prenotazione per motivi loro personali",
+        "voto": "5",
+        "data": "10/04/2016"        
+    },{
+        "user": "paolo m",
+        "titolo": "passati per caso",
+        "note": "ci sono veramente finito per caso",
+        "voto": "2",
+        "data": "10/04/2016"        
+    },{
+        "user": "psyco",
+        "titolo": "molto buono",
+        "note": "armeria carina ma prima di cibo",
+        "voto": "4",
+        "data": "10/04/2016"        
+    },{
+        "user": "supersimoncino",
+        "titolo": "super",
+        "note": "locale veramente super, alla portata di tutti",
+        "voto": "5",
+        "data": "10/04/2016"        
+    },{
+        "user": "luca m",
+        "titolo": "il dolce",
+        "note": "Sapori decisi e delicati allo stesso tempo, personale cordiale, gentile e preparato! ",
+        "voto": "3.5",
+        "data": "10/04/2016"        
+    },{
+        "user": "giovanni",
+        "titolo": "cucina romana",
+        "note": "Il locale è piccolo, rustico ma molto accogliente ma l'attrazione non è il coperto ma le pietanze. ",
+        "voto": "5",
+        "data": "10/04/2016"        
+    },{
+        "user": "vito ci",
+        "titolo": "tanto di cappello",
+        "note": "Sono spesso a Roma per lavoro e alloggio in Hotel a pochi KM da questa piccola ma graziosa Osteria (con la O maiuscola). Tornerò sicuramente perchè queste persone meritano di lavorare per poter portare avanti il nome della nostra tradizione culinaria. Ottimi sapori",
+        "voto": "5",
+        "data": "10/04/2016"        
+    },{
+        "user": "giulio tv",
+        "titolo": "piccola trattoria accogliente",
+        "note": "Il locale è piccolo e raccolto quindi al primo tentativo senza prenotazione non ho trovato posto. Provato paio di volte, molto buoni soprattutto i primi. Personale accogliente, ottimo rapporto prezzo qualità. Tra i 20 ed i 35 Euro con 2 o 3 portate.",
+        "voto": "3.5",
+        "data": "10/04/2016"        
+    },{
+        "user": "maurizio z",
+        "titolo": "supervalutatissimo",
+        "note": "Fantastico per iniziare la mia recensione. Primi buonissimi tagliatelle ai funghi, tonnarelli al cavaliere e tonnarelli con carciofi. Il secondo ottimo un carre di maiale squisito con cicoria ripassata e verza. Dolci buonissimi e amaro centoerbe un toccasana. La proprietaria delicata, gentile e simpatica, il prezzo ottimo. Andate e provate.",
+        "voto": "2.5",
+        "data": "10/04/2016"        
+    },{
+        "user": "claudia",
+        "titolo": "la trattoria migliore di roma",
+        "note": "Sono stata in questa osteria ben tre volte: dall'antipasto al dolce è tutto davvero ottimo! I prodotti sono di qualità, i piatti gustosi ed oltre al solito menù (che non delude mai) ci sono sempre nuovi piatti del giorno. Da non perdere il dolce, semplicemente squisito (vi consiglio il tiramisù al baileys e il dolce alla ricotta).",
+        "voto": "2",
+        "data": "10/04/2016"        
+    },{
+        "user": "manu pri",
+        "titolo": "piatti ottimi",
+        "note": "Piatti ottimi serviti con gentilezza e simpatia ineguagliabili. ",
+        "voto": "3",
+        "data": "10/04/2016"        
+    },{
+        "user": "irexo",
+        "titolo": "ottima trattoria",
+        "note": "Cena molto buona. Piatti curati e presentati in modo esemplare. Servizio valido e personale molto cortese. Ambiente piccolo ma arredato con stile. Prezzi nella media. Consigliato.",
+        "voto": "5",
+        "data": "10/04/2016"        
+    },{
+        "user": "patti c",
+        "titolo": "ristorante ottimo",
+        "note": "si mangia di tutto molto bene proprietari molto cortesi siamo stati sempre molto bene con famiglia e amici peccato non aperto anche a pranzo da provare per credere complimenti",
+        "voto": "4",
+        "data": "10/04/2016"        
+    },{
+        "user": "emy m",
+        "titolo": "mezze stelle",
+        "note": "altrimenti ne avrei date 3 e mezzo... Locale piccolo e raccolto, carino ed accogliente, musica di sottofondo al volume giusto... Cibo : nel complesso buono, forse, per i miei gusti, un po' troppo saporito, prezzi nella media, ma non capisco come il totale alla fine sia stato per un primo, un secondo, un contorno e due dolci 52 € ......",
+        "voto": "1",
+        "data": "10/04/2016"        
+    }
+    
+    ]
+    
+}
